@@ -49,3 +49,7 @@ while learning:
     improve()
     build()
 ```
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/FilipeArielDM/FilipeArielDM/blob/output/github-contribution-grid-snake-dark.svg)
