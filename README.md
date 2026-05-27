@@ -1,83 +1,51 @@
 # 👨‍💻 Filipe Ariel
 
-```python
-class FilipeAriel:
-    def __init__(self):
-        self.role = "Junior IT Analyst"
-        self.focus = [
-            "Technical Support",
-            "Process Automation",
-            "Power BI",
-            "Data Analysis"
-        ]
-        
-        self.currently_learning = [
-            "Python",
-            "Data Analytics",
-            "Business Intelligence",
-            "AI applied to Business"
-        ]
+Profissional de TI em transição para as áreas de Dados, BI e Automação.
 
-    def mindset(self):
-        return "Always learning and building practical solutions"
+Atualmente atuo como Analista de TI Júnior, trabalhando com:
 
-me = FilipeAriel()
-
-print(me.mindset())
-```
-
-### 🚀 About Me
-
-Professional transitioning from traditional IT operations into the Data and Automation field.
-
-Currently working with:
-
-* Technical support and infrastructure
-* Administrative automation with VBA
-* Internal process improvement
-* Dashboards and operational indicators
-* Asset organization and documentation
-
-Most of the projects here represent my learning journey and practical studies while I continue improving my technical and analytical skills.
+* suporte técnico
+* automação de processos
+* Power BI
+* organização de dados
+* melhoria operacional
 
 ---
 
-### 📚 Currently Exploring
+## 🚀 Projeto em destaque — Portal OKR
 
-```sql
-SELECT skill
-FROM learning_path
-WHERE focus IN (
-    'Power BI',
-    'Python',
-    'Data Visualization',
-    'Business Intelligence',
-    'Automation'
-);
-```
+Projeto voltado ao acompanhamento de:
 
----
+* OKRs
+* KPIs
+* dashboards
+* indicadores estratégicos
 
-### 🛠️ Technologies & Tools
+Utilizado como experiência prática para aprofundamento em:
 
 ```text
-Excel VBA      █████████░
-Power BI       ███████░░░
-Python         █████░░░░░
-SQL            ████░░░░░░
-SharePoint     ██████░░░░
+Power BI • Python • Data Analytics • Automação
 ```
 
 ---
 
-### 📈 Goal
+## 🛠️ Tecnologias
 
-```javascript
-while (career === "growing") {
-    learn();
-    build();
-    improve();
-}
+```text
+Excel VBA   █████████░
+Power BI    ███████░░░
+Python      █████░░░░░
+SQL         ████░░░░░░
+SharePoint  ██████░░░░
 ```
 
-Using technology to create practical solutions, optimize processes, and gradually evolve into the Data & BI area.
+---
+
+## 📈 Evolução constante
+
+```python
+while learning:
+    practice()
+    improve()
+    build()
+```
